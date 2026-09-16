@@ -49,7 +49,6 @@
 * [Using JSON Web Tokens as API Keys](https://auth0.com/blog/2014/12/02/using-json-web-tokens-as-api-keys/).
 * [Why Meteor doesn't use session cookies](http://info.meteor.com/blog/session-cookies).
 * [Guide on API authentication and authorization](https://www.moesif.com/blog/technical/restful-apis/Authorization-on-RESTful-APIs/).
-- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ### Authorization
 
@@ -71,6 +70,7 @@
 * [APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices).
 * [Node Security Project](https://nodesecurity.io/).
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
+* [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Format
 
